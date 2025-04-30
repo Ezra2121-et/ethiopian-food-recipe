@@ -1,11 +1,4 @@
 # ethiopian-food-recipe
-Here's a concise description you can add to your Ethiopian food recipe README file, focusing on **Shiro Wot**, **Doro Wot**, **Gomen**, and **Injera**:
-
----
-
-# Ethiopian Food Recipes  
-
-This repository features authentic Ethiopian recipes, including:  
 
 ### **Shiro Wot**  
 A flavorful and creamy stew made from ground chickpeas or broad beans, simmered with berbere spice, garlic, and onions. Often served as a vegan-friendly dish.  
